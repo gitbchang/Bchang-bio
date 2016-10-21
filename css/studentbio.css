@@ -1,5 +1,9 @@
 body {
+	/*
 	background-color: #efeee7;
+	background-image: url("wov.png");
+	*/
+	background-image: url("cork-wallet.png");
 	font-family: "Georgia", "Times New Roman", Times, serif;
 	color: #333333;
 	margin: 0;
